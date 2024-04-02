@@ -153,13 +153,21 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>DemoOps</label>
+    <label>Soccer</label>
     <nameField>
-        <label>DemoOps Name</label>
+        <label>Soccer Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>DemoOps</pluralLabel>
+    <pluralLabel>Soccer</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <fields>
+        <fullName>Jersey_Present__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Jersey Present</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>

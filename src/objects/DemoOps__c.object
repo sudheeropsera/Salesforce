@@ -153,13 +153,21 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>opsera_test2</label>
+    <label>DemoOps</label>
     <nameField>
-        <label>opsera_test2 Name</label>
+        <label>DemoOps Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Opsera_Test2</pluralLabel>
+    <pluralLabel>DemoOps</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <fields>
+        <fullName>Check_Name__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Check Name</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>

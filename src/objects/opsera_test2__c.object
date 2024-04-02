@@ -153,13 +153,20 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <label>Demo Test 3</label>
+    <label>opsera_test2</label>
     <nameField>
-        <label>Demo Test Name</label>
+        <label>opsera_test2 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Demo Test 3</pluralLabel>
+    <pluralLabel>Opsera_Test2</pluralLabel>
     <searchLayouts></searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+    <fields>
+        <fullName>Opsera_Test__c</fullName>
+        <externalId>false</externalId>
+        <label>Opsera Test</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
 </CustomObject>
