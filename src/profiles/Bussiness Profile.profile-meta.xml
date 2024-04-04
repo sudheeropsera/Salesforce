@@ -18,7 +18,7 @@
     </fieldPermissions>
     <loginIpRanges>
         <endAddress>47.1.1.244</endAddress>
-        <startAddress>47.1.1.1</startAddress>
+        <startAddress>47.1.1.0</startAddress>
     </loginIpRanges>
     <objectPermissions>
         <allowCreate>true</allowCreate>
