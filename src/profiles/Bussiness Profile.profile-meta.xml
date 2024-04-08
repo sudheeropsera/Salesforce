@@ -16,7 +16,13 @@
         <field>Summers__c.Is_summers_player__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Super_tennis__c.Is_Player_Available__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <loginIpRanges>
+        <description/>
         <endAddress>47.1.1.244</endAddress>
         <startAddress>47.1.1.0</startAddress>
     </loginIpRanges>
@@ -45,6 +51,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Summers__c</object>
+        <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>Super_tennis__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <userLicense>Salesforce</userLicense>
