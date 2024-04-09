@@ -13,5 +13,9 @@
     <name>CustomField</name>
     <members>Super_tennis__c.Is_Player_Available__c</members>
   </types>
+  <types>
+    <name>Profile</name>
+    <members>Bussiness Profile</members>
+  </types>
   <version/>
 </Package>
