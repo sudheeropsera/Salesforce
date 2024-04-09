@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>CustomObject</name>
+    <members>Super_league__c</members>
     <members>Super_tennis__c</members>
     <members>Lawn_Tennis__c</members>
   </types>
@@ -11,6 +12,7 @@
   </types>
   <types>
     <name>CustomField</name>
+    <members>Super_league__c.is_player_available__c</members>
     <members>Super_tennis__c.Is_Player_Available__c</members>
   </types>
   <types>
