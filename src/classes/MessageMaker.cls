@@ -1,4 +1,4 @@
-//Sample test execution Demo Now Deploy
+//Sample test class demo now
 public class MessageMaker{
 public static string helloMessage() {
     return('You say "Goodbye," I say "Hello"');
