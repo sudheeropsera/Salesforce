@@ -10,6 +10,7 @@
   </types>
   <types>
     <name>ApexClass</name>
+    <members>MessageMakerTest</members>
     <members>MessageMaker</members>
   </types>
   <types>
