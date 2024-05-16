@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>CustomObject</name>
+    <members>Caterpillar__c</members>
     <members>Experity_Health__c</members>
     <members>Jupiter__c</members>
     <members>Super_league__c</members>
@@ -15,6 +16,7 @@
   </types>
   <types>
     <name>CustomField</name>
+    <members>Caterpillar__c.Equipment__c</members>
     <members>Experity_Health__c.Is_Company__c</members>
     <members>Jupiter__c.Is_Planet__c</members>
     <members>Super_league__c.is_player_available__c</members>
@@ -23,6 +25,10 @@
   <types>
     <name>Profile</name>
     <members>Bussiness Profile</members>
+  </types>
+  <types>
+    <name>PermissionSet</name>
+    <members>Caterpillar</members>
   </types>
   <version/>
 </Package>
