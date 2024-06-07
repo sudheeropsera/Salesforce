@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>CustomObject</name>
+    <members>Equinix__c</members>
     <members>Equi__c</members>
     <members>PS__c</members>
     <members>Caterpillar__c</members>
@@ -18,6 +19,7 @@
   </types>
   <types>
     <name>CustomField</name>
+    <members>Equinix__c.is_company__c</members>
     <members>Equi__c.Is_Company__c</members>
     <members>PS__c.IsCompany__c</members>
     <members>Caterpillar__c.Equipment__c</members>
