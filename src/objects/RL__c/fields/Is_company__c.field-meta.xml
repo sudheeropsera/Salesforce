@@ -3,6 +3,7 @@
     <fullName>Is_company__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
+    <inlineHelpText>RLI is company field</inlineHelpText>
     <label>Is company</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>
